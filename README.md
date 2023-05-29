@@ -19,7 +19,7 @@ We strongly encourage the nlp researchers who are interested in this topic to ma
   - [Grammar Error Correction](#grammar-error-correction)
   - [Text Rewriting](#text-rewriting)
   - [Controllable Text Generation](#controllable-text-generation)
-  - [Educational NLP and LLMs](#educational-large language models)
+  - [Educational NLP and LLMs](#educational-large-language-models)
 - [Contributing](#contributing)
 
 ## Introduction
