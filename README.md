@@ -9,7 +9,7 @@ We strongly encourage the nlp researchers who are interested in this topic to ma
 - 2023/05/19: Create this paper list
 
 ## Contents
-
+ 
 - [Introduction](#introduction)
   - [Scope](#scope)
   - [Advantages](#advantages)
