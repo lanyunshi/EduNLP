@@ -5,7 +5,7 @@ This is a list of "Application of NLP in Education" papers.
 We strongly encourage the nlp researchers who are interested in this topic to make pull request and collaborate with us!
 
 ## Updates
-
+ 
 - 2023/05/19: Create this paper list
 
 ## Contents
