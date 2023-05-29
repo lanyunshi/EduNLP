@@ -92,7 +92,7 @@ In existing literature, we identify serveral lines of researches that fit into E
 
 10. **汉语水平考试（HSK）阅读文本可读性自动评估研究**. 语言文字应用 2022![](https://img.shields.io/badge/Supervised-red)![](https://img.shields.io/badge/Chinese-green)![](https://img.shields.io/badge/Technical-yellow)
 
-   *杜月明;王亚敏;王蕾*. [[link](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XVa5SQB5_9XY7pzGH8TwyZ9YQgL9OtGWJc3PXP1YQGb9&uniplatform=NZKPT)]
+    *杜月明;王亚敏;王蕾*. [[link](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XVa5SQB5_9XY7pzGH8TwyZ9YQgL9OtGWJc3PXP1YQGb9&uniplatform=NZKPT)]
 
 11. **篇章结构特征对文本可读性的影响**. 语言文字应用 2022![](https://img.shields.io/badge/Supervised-red)![](https://img.shields.io/badge/Chinese-green)![](https://img.shields.io/badge/Technical-yellow)
 
