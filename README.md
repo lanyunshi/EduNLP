@@ -1,7 +1,7 @@
 # Educational NLP
 ![](https://img.shields.io/github/last-commit/txsun1997/LMaaS-Papers?color=green) ![](https://img.shields.io/badge/PaperNumber-63-brightgreen)
 
-This is a list of "Application of NLP in Chinese Education" papers.
+This is a list of "Application of NLP in Education" papers.
 We strongly encourage the nlp researchers who are interested in this topic to make pull request and collaborate with us!
 
 ## Updates
@@ -24,11 +24,11 @@ We strongly encourage the nlp researchers who are interested in this topic to ma
 
 ## Introduction
 
-Natural Language Processing (NLP) can be applied to different domains, such as finance, medicine, and education. We focus on the application of NLP on education domain. And discuss multiple tasks such as Readability assessment, Chinese grammar error correction, text rewriting and educational LLMs. To make this page benefit a wider range audiences, we collect papers that fit into this topic to facilitate future research.
+Natural Language Processing (NLP) can be applied to different domains, such as finance, medicine, and education. We focus on the application of NLP on education domain. And discuss multiple tasks such as readability assessment, grammar error correction, text rewriting and educational LLMs. To make this page benefit a wider range audiences, we collect papers that fit into this topic to facilitate future research.
 
 ### Scope
 
-In this github page, we mainly focus on the tasks which are related to the Educational NLP and the tasks that play siginificant role in Chinese Education. In our scope, we prefer serving general knowledge and models for a variety of audients who are intersted in Educational NLP.
+In this github page, we mainly focus on the tasks which are related to the Educational NLP and the tasks that play siginificant role in Education scenarios. In our scope, we prefer serving general knowledge and models for a variety of audients who are intersted in Educational NLP.
 
 In existing literature, we identify serveral lines of researches that fit into Educational NLP.
 
@@ -462,6 +462,7 @@ In existing literature, we identify serveral lines of researches that fit into E
 
 
 ### Contributors
+In addition to the following contributors who submitted pull requests, we would also like to thank Keren Tan, Jiani Wang, and Lei Pan for recommending papers. 
 
 
 
