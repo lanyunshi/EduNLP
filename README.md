@@ -462,7 +462,6 @@ In existing literature, we identify serveral lines of researches that fit into E
 
 
 ### Contributors
-In addition to the following contributors who submitted pull requests, we would also like to thank Keren Tan, Jiani Wang, and Lei Pan for recommending papers. 
 
 
 
